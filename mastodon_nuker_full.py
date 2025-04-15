@@ -4,8 +4,8 @@ import random
 import os
 
 # ==== CONFIG ====
-ACCESS_TOKEN = 'DAkUf69qUYYw2HRkOT2O3HInWtg06TAcPGAWj8-zvSo'
-MASTODON_INSTANCE = 'https://social.chiefgyk3d.com'
+ACCESS_TOKEN = 'TOKEN'
+MASTODON_INSTANCE = 'https://DOMAIN'
 ACCOUNT_ID = ''  # Leave blank to auto-fetch
 PER_PAGE = 40
 WAIT_SECONDS_BETWEEN_DELETIONS = 30  # 🐢 slow mode
